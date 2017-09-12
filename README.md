@@ -1,5 +1,5 @@
 # sample-repo
 TEST REPO
-Line One Changes
+Line One Changed...
 Sample Changes to test ...
 Added Line Two
